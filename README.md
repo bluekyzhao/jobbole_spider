@@ -1,6 +1,6 @@
-### install for windows
+### os : windows
 
-pip install twisted 
+pip install twisted    (download from https://www.lfd.uci.edu/~gohlke/pythonlibs/)
 
 pip install mysqlclient
 
